@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contactos</string>
+    <string name="action_compartir">Compartir</string>
+    <string name="title_home">Home</string>
+    <string name="title_favoritos">Favoritos</string>
+    
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="favorito">Favorito</string>
+    <string name="splash_image">Splash Image</string>
+
+</resources>

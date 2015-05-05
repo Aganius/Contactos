@@ -1,0 +1,93 @@
+<contactos>
+	<contacto>
+		<nombre>Daniel Stiven Tamayo Gonzalez</nombre>
+		<telefono>3156328344</telefono>
+		<email>daniel.tamayo@prueba.com.co</email>
+		<direccion>Calle 44 #71-103</direccion>
+	</contacto>
+	<contacto>
+		<nombre>David Cardona Sarrazola</nombre>
+		<telefono></telefono>
+		<email>david.cardona@prueba.com.co</email>
+		<direccion>Calle 9 #43B-17</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Diana Marcela Gomez Mejia</nombre>
+		<telefono>3122054632</telefono>
+		<email>diana.gomez@prueba.com.co</email>
+		<direccion>Carrera 50 #37-45</direccion>
+	</contacto>
+	<contacto>
+		<nombre></nombre>
+		<telefono></telefono>
+		<email></email>
+		<direccion></direccion>
+	</contacto>
+	<contacto>
+		<nombre>Didier Alberto Alzate Isaza</nombre>
+		<telefono>3006093164</telefono>
+		<email>didier.alzate@prueba.com.co</email>
+		<direccion></direccion>
+	</contacto>
+	<contacto>
+		<nombre>Esther Cecilia Correa Quiroz</nombre>
+		<telefono>3218588129</telefono>
+		<email>cecilia.correa@prueba.com.co</email>
+		<direccion>Calle 34 #66B-93</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Fredy Alexis Castaño Arias</nombre>
+		<telefono>3137367586</telefono>
+		<email>fredy.castano@prueba.com.co</email>
+		<direccion>Calle 55 # 46-21</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Monica Yulieth Lopez Manjarres</nombre>
+		<telefono>3206201124</telefono>
+		<email>monica.lopez@prueba.com.co</email>
+		<direccion>Carrera 45 #55-70</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Tatiana Miranda Cano</nombre>
+		<telefono></telefono>
+		<email>tatiana.miranda@prueba.com.co</email>
+		<direccion></direccion>
+	</contacto>
+	<contacto>
+		<nombre>Adriana Osorio García</nombre>
+		<telefono>4446665</telefono>
+		<email>adriana.osorio@prueba.com.co</email>
+		<direccion>Calle 51 #49-32</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Alexander Galvis Rivera</nombre>
+		<telefono>3004507214</telefono>
+		<email>	alicia.avendano@prueba.com.co</email>
+		<direccion>	</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Carlos Gustavo Gómez Marín</nombre>
+		<telefono>3006114197</telefono>
+		<email>carlos.gomez@prueba.com.co</email>
+		<direccion>Carrera 48 #10-107</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Andres Felipe Aragon</nombre>
+		<telefono>2366963</telefono>
+		<email>felipe.aragon@prueba.com.co</email>
+		<direccion>
+		</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Cristian Camilo Alzate Tobon</nombre>
+		<telefono>4446665</telefono>
+		<email>cristian.alzate@prueba.com.co</email>
+		<direccion>	</direccion>
+	</contacto>
+	<contacto>
+		<nombre>Cristian Mauricio Rios</nombre>
+		<telefono>3146812992</telefono>
+		<email>	mauricio.rios@prueba.com.co</email>
+		<direccion>	Carrera 76 #32-57</direccion>
+	</contacto>
+</contactos>
